@@ -1,0 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+author:
+  name: "eya garali [QA]"
+  email: "eyagarali26@gmail.com [QA]"
